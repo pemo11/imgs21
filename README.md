@@ -1,2 +1,3 @@
-# imgs21
-Das Praxisprojekt für das Modul IMG im Studiengang OMI an der HS-Emden Leer
+# IMGS21
+
+Das Semesterprojekt für IMG Sommersemester 21 - der Studi-Helper 1.0
